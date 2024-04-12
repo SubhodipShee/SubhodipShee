@@ -1,7 +1,7 @@
 ### Hi👋, I’m @SubhodipShee
 
 - 👀 I’m interested in  Web Dev & Blockchian ⛓
-- 💞️ I’m looking to collaborate on "Web Developement"
+- 💞️ I’m looking to collaborate on "Web Development"
 - 📫 How to reach me ?
 - Mail me on subhodipshee17@gmail.com
 
