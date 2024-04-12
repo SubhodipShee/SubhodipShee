@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Programming Languages & Tools ⌨️
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,c,py,java,html,css,js,react,postmanapi ubuntu,discord,linkedin=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,py,java,html,css,js,react,postmanapi ubuntu,discord,linkedin" />
   </a>
 </p>
 
