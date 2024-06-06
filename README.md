@@ -1,4 +1,4 @@
-### Hi👋, I’m @SubhodipShee
+### Hi👋, I’m @SUBHODIP SHEE
 
 - 👀 I’m interested in  Web Dev & Blockchian ⛓
 - 💞️ I’m looking to collaborate on "Web Development"
