@@ -3,7 +3,7 @@
 - 👀 I’m interested in  Web Dev & Blockchian ⛓
 - 💞️ I’m looking to collaborate on "Web Development"
 - 📫 How to reach me ?
-- Mail me on subhodipshee17@gmail.com
+- leave a text on Linkedln : linkedin.com/in/subhodip-shee-a979b722b
 
 <!---
 SubhodipShee/SubhodipShee is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
